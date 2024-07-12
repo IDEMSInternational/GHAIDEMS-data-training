@@ -1,3 +1,10 @@
+## Running the notebooks
+
+The notebooks can be run on Google colab.
+
+- [Notebook 1](https://githubtocolab.com/IDEMSInternational/GHAIDEMS-data-training/blob/main/life_expectancy_who_part_1.ipynb)
+- [Notebook 2](https://githubtocolab.com/IDEMSInternational/GHAIDEMS-data-training/blob/main/life_expectancy_who_part_2.ipynb)
+
 ## Data sources
 
 The following data files are from Kaggle, they are not the property of IDEMS International.
